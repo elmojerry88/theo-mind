@@ -1,0 +1,7 @@
+- Enviar mensagens 
+- Receber mensagens
+- Gravar no banco de dados os usuários e o número de mensagens enviadas.
+- Validar se o theomind foi chamado na mensagem
+- Cadastrar os usuários que podem acessar o theomind
+- guardar a minha sessão 
+- Criar um frontend para gerenciar

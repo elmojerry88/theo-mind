@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/9113740/201498152-b171abb8-9225-487a-821c-6ff49ee48579.png">
 </picture>
 
-<div align="center"><strong>Next.js Admin Dashboard Starter Template With Shadcn-ui</strong></div>
+<div align="center"><strong>NextJs Dashboard- Elmo Jerry Template</strong></div>
 <div align="center">Built with the Next.js 15 App Router</div>
 <br />
 <div align="center">
